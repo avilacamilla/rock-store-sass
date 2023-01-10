@@ -1,1 +1,11 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+}
+nav img {
+  width: 22rem;
+}/*# sourceMappingURL=style.css.map */
