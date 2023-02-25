@@ -1,0 +1,10 @@
+@import '../abstract/variables';
+
+.container-catalog {
+    margin: 5rem 0 0 0;
+    background-image: url('../../assets/background.png');
+    .catalog-subtitle {
+        margin: 30rem 0 0 0;
+        color: $fifth-color;
+    }
+}
